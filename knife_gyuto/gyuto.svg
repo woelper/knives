@@ -1,0 +1,251 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='269.588mm' height='52.625mm' viewBox="0 0 269.588 52.625">
+
+<title>Exported SVG</title>
+
+<style><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.269588;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.525033;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.525033;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.525033;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.525033;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:1.575098;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:4.200261;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.525033;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.525033;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:7.875,7.875;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:1.575098;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s100 {
+stroke:#000000;
+stroke-width:0.787549;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style>
+<path d='M16.111 12.448 A12.706,12.706 0 0,0 5.000,20.336 A32.314,32.314 0 0,0 19.887,37.493 A55.218,55.218 0 0,1 38.317,31.639 A513.250,513.250 0 0,0 112.739,30.781 C119.852,29.986 119.648,34.201 120.071,35.097 L120.071,47.625 C197.064,42.721 245.421,29.886 264.588,20.583 C262.132,18.617 255.971,13.685 228.816,10.975 L16.111,12.448 ' class='s100' />
+<path d='M118.498 5.000 L105.897,5.000 L105.897,17.601 L118.498,17.601 L118.498,5.000 ' class='s6' />
+<path d='M103.797 34.402 L107.997,47.003 ' class='s6' />
+<path d='M107.997 47.003 L112.197,34.402 ' class='s6' />
+<path d='M97.497 8.150 L97.497,29.152 ' class='s6' />
+<path d='M28.192 8.150 L28.192,29.152 ' class='s6' />
+<path d='M97.497 21.801 L82.796,21.801 ' class='s6' />
+<path d='M28.192 21.801 L42.893,21.801 ' class='s6' />
+<path d='M15.329 23.901 L19.004,12.350 ' class='s6' />
+<path d='M25.042 17.484 L25.117,16.629 ' class='s6' />
+<path d='M25.117 16.629 L25.330,15.796 ' class='s6' />
+<path d='M25.330 15.796 L25.676,15.007 ' class='s6' />
+<path d='M25.676 15.007 L26.145,14.282 ' class='s6' />
+<path d='M26.145 14.282 L26.725,13.639 ' class='s6' />
+<path d='M26.725 13.639 L27.403,13.093 ' class='s6' />
+<path d='M27.403 13.093 L28.161,12.660 ' class='s6' />
+<path d='M28.161 12.660 L28.980,12.350 ' class='s6' />
+<path d='M34.493 23.901 L34.493,23.259 ' class='s6' />
+<path d='M30.882 21.838 A3.000,3.000 0 0,1 27.882,24.838 ' class='s0' />
+<path d='M27.882 24.838 A3.000,3.000 0 0,1 24.882,21.838 ' class='s0' />
+<path d='M24.882 21.838 A3.000,3.000 0 0,1 27.882,18.838 ' class='s0' />
+<path d='M27.882 18.838 A3.000,3.000 0 0,1 30.882,21.838 ' class='s0' />
+<path d='M100.604 21.838 A3.000,3.000 0 0,1 97.604,24.838 ' class='s0' />
+<path d='M97.604 24.838 A3.000,3.000 0 0,1 94.604,21.838 ' class='s0' />
+<path d='M94.604 21.838 A3.000,3.000 0 0,1 97.604,18.838 ' class='s0' />
+<path d='M97.604 18.838 A3.000,3.000 0 0,1 100.604,21.838 ' class='s0' />
+<path d='M13.491 18.126 L13.771,16.652 ' class='s6' />
+<path d='M13.771 16.652 L14.568,15.403 ' class='s6' />
+<path d='M14.568 15.403 L15.760,14.569 ' class='s6' />
+<path d='M15.760 14.569 L17.167,14.276 ' class='s6' />
+<path d='M17.167 14.276 L18.573,14.569 ' class='s6' />
+<path d='M18.573 14.569 L19.765,15.403 ' class='s6' />
+<path d='M19.765 15.403 L20.562,16.652 ' class='s6' />
+<path d='M20.562 16.652 L20.842,18.126 ' class='s6' />
+<path d='M20.842 18.126 L20.562,19.599 ' class='s6' />
+<path d='M20.562 19.599 L19.765,20.848 ' class='s6' />
+<path d='M19.765 20.848 L18.573,21.683 ' class='s6' />
+<path d='M18.573 21.683 L17.167,21.976 ' class='s6' />
+<path d='M17.167 21.976 L15.760,21.683 ' class='s6' />
+<path d='M15.760 21.683 L14.568,20.848 ' class='s6' />
+<path d='M14.568 20.848 L13.771,19.599 ' class='s6' />
+<path d='M13.771 19.599 L13.491,18.126 ' class='s6' />
+<path d='M25.042 17.484 L27.667,17.484 ' class='s6' />
+<path d='M27.667 17.484 L28.178,17.536 ' class='s6' />
+<path d='M28.178 17.536 L28.669,17.684 ' class='s6' />
+<path d='M28.669 17.684 L29.121,17.922 ' class='s6' />
+<path d='M29.121 17.922 L29.518,18.241 ' class='s6' />
+<path d='M29.518 18.241 L29.844,18.629 ' class='s6' />
+<path d='M29.844 18.629 L30.087,19.072 ' class='s6' />
+<path d='M30.087 19.072 L30.239,19.551 ' class='s6' />
+<path d='M30.239 19.551 L30.292,20.051 ' class='s6' />
+<path d='M30.292 20.051 L30.292,21.334 ' class='s6' />
+<path d='M30.292 21.334 L30.093,22.317 ' class='s6' />
+<path d='M30.093 22.317 L29.523,23.149 ' class='s6' />
+<path d='M29.523 23.149 L28.672,23.706 ' class='s6' />
+<path d='M28.672 23.706 L27.667,23.901 ' class='s6' />
+<path d='M27.667 23.901 L26.663,23.706 ' class='s6' />
+<path d='M26.663 23.706 L25.811,23.149 ' class='s6' />
+<path d='M25.811 23.149 L25.242,22.317 ' class='s6' />
+<path d='M25.242 22.317 L25.042,21.334 ' class='s6' />
+<path d='M25.042 21.334 L25.042,17.484 ' class='s6' />
+<path d='M42.631 12.992 L43.198,14.207 ' class='s6' />
+<path d='M43.198 14.207 L43.610,15.480 ' class='s6' />
+<path d='M43.610 15.480 L43.860,16.793 ' class='s6' />
+<path d='M43.860 16.793 L43.943,18.126 ' class='s6' />
+<path d='M43.943 18.126 L43.860,19.459 ' class='s6' />
+<path d='M43.860 19.459 L43.610,20.772 ' class='s6' />
+<path d='M43.610 20.772 L43.198,22.045 ' class='s6' />
+<path d='M43.198 22.045 L42.631,23.259 ' class='s6' />
+<path d='M42.631 23.259 L42.369,23.529 ' class='s6' />
+<path d='M42.369 23.529 L42.052,23.732 ' class='s6' />
+<path d='M42.052 23.732 L41.695,23.858 ' class='s6' />
+<path d='M41.695 23.858 L41.318,23.901 ' class='s6' />
+<path d='M41.318 23.901 L40.941,23.858 ' class='s6' />
+<path d='M40.941 23.858 L40.584,23.732 ' class='s6' />
+<path d='M40.584 23.732 L40.267,23.529 ' class='s6' />
+<path d='M40.267 23.529 L40.005,23.259 ' class='s6' />
+<path d='M40.005 23.259 L39.438,22.045 ' class='s6' />
+<path d='M39.438 22.045 L39.026,20.772 ' class='s6' />
+<path d='M39.026 20.772 L38.776,19.459 ' class='s6' />
+<path d='M38.776 19.459 L38.693,18.126 ' class='s6' />
+<path d='M38.693 18.126 L38.776,16.793 ' class='s6' />
+<path d='M38.776 16.793 L39.026,15.480 ' class='s6' />
+<path d='M39.026 15.480 L39.438,14.207 ' class='s6' />
+<path d='M39.438 14.207 L40.005,12.992 ' class='s6' />
+<path d='M40.005 12.992 L40.267,12.723 ' class='s6' />
+<path d='M40.267 12.723 L40.584,12.520 ' class='s6' />
+<path d='M40.584 12.520 L40.941,12.393 ' class='s6' />
+<path d='M40.941 12.393 L41.318,12.350 ' class='s6' />
+<path d='M41.318 12.350 L41.695,12.393 ' class='s6' />
+<path d='M41.695 12.393 L42.052,12.520 ' class='s6' />
+<path d='M42.052 12.520 L42.369,12.723 ' class='s6' />
+<path d='M42.369 12.723 L42.631,12.992 ' class='s6' />
+<path d='M52.081 12.992 L52.649,14.207 ' class='s6' />
+<path d='M52.649 14.207 L53.061,15.480 ' class='s6' />
+<path d='M53.061 15.480 L53.310,16.793 ' class='s6' />
+<path d='M53.310 16.793 L53.394,18.126 ' class='s6' />
+<path d='M53.394 18.126 L53.310,19.459 ' class='s6' />
+<path d='M53.310 19.459 L53.061,20.772 ' class='s6' />
+<path d='M53.061 20.772 L52.649,22.045 ' class='s6' />
+<path d='M52.649 22.045 L52.081,23.259 ' class='s6' />
+<path d='M52.081 23.259 L51.820,23.529 ' class='s6' />
+<path d='M51.820 23.529 L51.502,23.732 ' class='s6' />
+<path d='M51.502 23.732 L51.146,23.858 ' class='s6' />
+<path d='M51.146 23.858 L50.769,23.901 ' class='s6' />
+<path d='M50.769 23.901 L50.392,23.858 ' class='s6' />
+<path d='M50.392 23.858 L50.035,23.732 ' class='s6' />
+<path d='M50.035 23.732 L49.717,23.529 ' class='s6' />
+<path d='M49.717 23.529 L49.456,23.259 ' class='s6' />
+<path d='M49.456 23.259 L48.888,22.045 ' class='s6' />
+<path d='M48.888 22.045 L48.477,20.772 ' class='s6' />
+<path d='M48.477 20.772 L48.227,19.459 ' class='s6' />
+<path d='M48.227 19.459 L48.143,18.126 ' class='s6' />
+<path d='M48.143 18.126 L48.227,16.793 ' class='s6' />
+<path d='M48.227 16.793 L48.477,15.480 ' class='s6' />
+<path d='M48.477 15.480 L48.888,14.207 ' class='s6' />
+<path d='M48.888 14.207 L49.456,12.992 ' class='s6' />
+<path d='M49.456 12.992 L49.717,12.723 ' class='s6' />
+<path d='M49.717 12.723 L50.035,12.520 ' class='s6' />
+<path d='M50.035 12.520 L50.392,12.393 ' class='s6' />
+<path d='M50.392 12.393 L50.769,12.350 ' class='s6' />
+<path d='M50.769 12.350 L51.146,12.393 ' class='s6' />
+<path d='M51.146 12.393 L51.502,12.520 ' class='s6' />
+<path d='M51.502 12.520 L51.820,12.723 ' class='s6' />
+<path d='M51.820 12.723 L52.081,12.992 ' class='s6' />
+
+</svg>
