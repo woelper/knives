@@ -1,0 +1,143 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='163.521mm' height='44.770mm' viewBox="0 0 163.521 44.770">
+
+<title>Exported SVG</title>
+
+<style><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.163521;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.210303;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.210303;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.210303;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.210303;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.140202;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.140202;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.210303;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.210303;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.140202;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.140202;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.420606;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:1.121616;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.140202;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.140202;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:2.103,2.103;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.420606;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style>
+<path d='M73.246 34.671 L76.903,34.680 A14.788,14.788 0 0,1 95.498,29.028 A11.579,11.579 0 0,0 102.459,29.829 A85.490,85.490 0 0,1 145.403,33.998 A3.519,3.519 0 0,0 149.788,32.220 A43.375,43.375 0 0,0 153.646,19.479 A1.369,1.369 0 0,0 152.557,17.946 L114.296,10.339 A29.186,29.186 0 0,0 106.392,9.862 L73.380,12.373 L13.718,13.686 L5.000,20.210 C27.745,31.547 44.002,33.769 66.039,34.267 L71.169,30.374 L73.246,34.671 M91.543 19.445 A2.836,2.836 0 0,1 88.707,22.282 A2.836,2.836 0 0,1 85.871,19.445 A2.836,2.836 0 0,1 88.707,16.609 A2.836,2.836 0 0,1 91.543,19.445 M142.373 23.617 A2.836,2.836 0 0,1 139.537,26.453 A2.836,2.836 0 0,1 136.700,23.617 A2.836,2.836 0 0,1 139.537,20.781 A2.836,2.836 0 0,1 142.373,23.617 ' class='s0' />
+<path d='M115.900 8.645 L112.535,8.645 L112.535,12.010 L115.900,12.010 L115.900,8.645 ' class='s6' />
+<path d='M108.048 8.084 L104.684,8.084 L104.684,11.449 L108.048,11.449 L108.048,8.084 ' class='s6' />
+<path d='M154.315 16.216 L150.950,16.216 L150.950,19.581 L154.315,19.581 L154.315,16.216 ' class='s6' />
+<path d='M92.907 31.638 L94.869,31.638 ' class='s6' />
+<path d='M93.888 31.638 L93.888,34.723 ' class='s6' />
+<path d='M143.099 36.686 L145.062,36.686 ' class='s6' />
+<path d='M144.080 36.686 L144.080,39.770 ' class='s6' />
+<path d='M152.352 32.760 L154.315,32.760 ' class='s6' />
+<path d='M153.334 32.760 L153.334,36.125 ' class='s6' />
+<path d='M114.217 5.280 L115.900,5.280 ' class='s6' />
+<path d='M115.059 5.280 L115.059,8.645 ' class='s6' />
+<path d='M105.244 5.000 L106.927,5.000 ' class='s6' />
+<path d='M106.086 5.000 L106.086,8.084 ' class='s6' />
+<path d='M156.558 19.020 L158.521,19.020 ' class='s6' />
+<path d='M157.540 19.020 L157.540,22.105 ' class='s6' />
+<path d='M152.352 13.132 L154.315,13.132 ' class='s6' />
+<path d='M153.334 13.132 L153.334,16.216 ' class='s6' />
+<path d='M139.454 17.899 L139.454,23.507 ' class='s6' />
+<path d='M88.701 13.693 L88.701,19.301 ' class='s6' />
+<path d='M73.839 20.703 L73.839,24.067 ' class='s6' />
+<path d='M73.839 24.067 L70.474,24.067 ' class='s6' />
+<path d='M70.474 24.067 L70.474,20.703 ' class='s6' />
+<path d='M70.474 20.703 L73.839,20.703 ' class='s6' />
+
+</svg>

@@ -1,0 +1,4 @@
+*
+!.gitignore
+!knife_**/**
+**/ref/**
