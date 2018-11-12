@@ -1,5 +1,4 @@
-#Gyuto
-![preview](gallery_1.jpg~)
+# Gyuto
 ![](gyuto.png)
 ![](gyuto.svg)
 ![preview](gallery_1.jpg)
