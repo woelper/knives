@@ -1,3 +1,3 @@
-feather
-![alt text](feather.png)
-![alt text](feather.svg)
+Feather
+![](feather.png)
+![](feather.svg)

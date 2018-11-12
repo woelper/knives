@@ -1,19 +1,19 @@
 This is a collection of older and recent knife designs.
 
-![Simple hunter](./knife_simple_hunter/)
+![Simple hunter](knife_simple_hunter/)
 
-![Feather](./knife_feather/)
+![Feather](knife_feather/)
 
-![Eastern promise](./knife_eastern_promise/)
+![Eastern promise](knife_eastern_promise/)
 
-![Grabendolch](./knife_grabendolch/)
+![Grabendolch](knife_grabendolch/)
 
-![Serpent](./knife_serpent/)
+![Serpent](knife_serpent/)
 
-![Tanto](./knife_tanto/)
+![Tanto](knife_tanto/)
 
-![Gyuto](./knife_gyuto/)
+![Gyuto](knife_gyuto/)
 
-![Twig](./knife_twig/)
+![Twig](knife_twig/)
 
-![Km13](./knife_km13/)
+![Km13](knife_km13/)

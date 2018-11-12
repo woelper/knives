@@ -1,3 +1,3 @@
-gyuto
-![alt text](gyuto.png)
-![alt text](gyuto.svg)
+Gyuto
+![](gyuto.png)
+![](gyuto.svg)

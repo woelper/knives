@@ -1,3 +1,3 @@
-serpent
-![alt text](serpent.png)
-![alt text](serpent.svg)
+Serpent
+![](serpent.png)
+![](serpent.svg)
