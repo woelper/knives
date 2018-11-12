@@ -1,5 +1,7 @@
 This is a collection of older and recent knife designs.
 
+![Owl](knife_owl/)
+
 ![Simple hunter](knife_simple_hunter/)
 
 ![Feather](knife_feather/)
