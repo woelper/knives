@@ -16,6 +16,8 @@ This is a collection of older and recent knife designs.
 
 ![Gyuto](knife_gyuto/)
 
+![Seax](knife_seax/)
+
 ![Twig](knife_twig/)
 
 ![Km13](knife_km13/)
