@@ -1,187 +1,223 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='268.258mm' height='32.224mm' viewBox="0 0 268.258 32.224">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='278.991mm' height='61.720mm' viewBox="0 0 278.991 61.720">
 
 <title>Exported SVG</title>
 
 <style><![CDATA[
 polygon {
 shape-rendering:crispEdges;
-stroke-width:0.268258;
+stroke-width:0.278991;
 }
 .s1 {
 stroke:#000000;
-stroke-width:0.358692;
+stroke-width:0.362522;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
 stroke:#19b219;
-stroke-width:0.358692;
+stroke-width:0.362522;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
 stroke:#7f4c00;
-stroke-width:0.358692;
+stroke-width:0.362522;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
 stroke:#00cc00;
-stroke-width:0.358692;
+stroke-width:0.362522;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
 stroke:#000000;
-stroke-width:0.239128;
+stroke-width:0.241681;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
 stroke:#ff19ff;
-stroke-width:0.239128;
+stroke-width:0.241681;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
 stroke:#ff0000;
-stroke-width:0.358692;
+stroke-width:0.362522;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
 stroke:#ffff00;
-stroke-width:0.358692;
+stroke-width:0.362522;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
 stroke:#001919;
-stroke-width:0.239128;
+stroke-width:0.241681;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
 stroke:#006666;
-stroke-width:0.239128;
+stroke-width:0.241681;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
 stroke:#00ffff;
-stroke-width:0.717384;
+stroke-width:0.725043;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
 stroke:#ff0000;
-stroke-width:1.913025;
+stroke-width:1.933448;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
 stroke:#191919;
-stroke-width:0.239128;
+stroke-width:0.241681;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
 stroke:#000000;
-stroke-width:0.239128;
+stroke-width:0.241681;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:3.587,3.587;
+stroke-dasharray:3.625,3.625;
 fill:none;
 }
 .sf {
 stroke:#000000;
-stroke-width:0.717384;
+stroke-width:0.725043;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 ]]></style>
-<polygon points='15.243,22.380 16.691,23.254 15.243,22.380' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='16.691,23.254 18.117,23.974 16.691,23.254' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='24.747,25.868 22.219,25.382 22.219,25.382' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='27.060,26.151 24.747,25.868 24.747,25.868' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='27.060,26.151 24.747,25.868 27.060,26.151' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='9.358,17.001 10.832,18.662 9.358,17.001' stroke='#232323' fill='#232323'/>
-<polygon points='13.780,21.335 15.243,22.380 13.780,21.335' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='18.117,23.974 19.518,24.557 18.117,23.974' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='18.117,23.974 19.518,24.557 19.518,24.557' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,10.506 50.062,6.684 50.062,6.684' stroke='#6a6a6a' fill='#6a6a6a'/>
-<polygon points='5.000,10.506 50.062,6.684 5.000,10.506' stroke='#6a6a6a' fill='#6a6a6a'/>
-<polygon points='147.323,21.568 147.323,27.076 147.323,27.076' stroke='#505050' fill='#505050'/>
-<polygon points='147.323,5.000 147.323,11.568 147.323,5.000' stroke='#505050' fill='#505050'/>
-<polygon points='147.323,5.000 147.323,11.568 147.323,11.568' stroke='#505050' fill='#505050'/>
-<polygon points='147.323,21.568 147.323,27.076 147.323,21.568' stroke='#505050' fill='#505050'/>
-<polygon points='263.258,21.568 147.323,21.568 147.323,21.568' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='263.258,21.568 147.323,21.568 263.258,21.568' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='147.323,11.568 263.258,11.568 263.258,11.568' stroke='#646464' fill='#646464'/>
-<polygon points='147.323,11.568 263.258,11.568 147.323,11.568' stroke='#646464' fill='#646464'/>
-<polygon points='12.308,20.101 13.780,21.335 12.308,20.101' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='7.891,15.099 9.358,17.001 7.891,15.099' stroke='#2a2a2a' fill='#2a2a2a'/>
-<polygon points='50.062,6.684 147.323,5.000 147.323,5.000' stroke='#656565' fill='#656565'/>
-<polygon points='50.062,6.684 147.323,5.000 50.062,6.684' stroke='#656565' fill='#656565'/>
-<polygon points='147.323,27.076 91.720,27.224 147.323,27.076' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='263.258,11.568 263.258,21.568 263.258,21.568' stroke='#505050' fill='#505050'/>
-<polygon points='263.258,11.568 263.258,21.568 263.258,11.568' stroke='#505050' fill='#505050'/>
-<polygon points='46.892,27.018 60.783,27.170 60.783,27.170' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='60.783,27.170 46.892,27.018 46.892,27.018' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='46.892,27.018 60.783,27.170 46.892,27.018' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.030,26.853 34.331,26.666 34.331,26.666' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.030,26.853 34.331,26.666 41.030,26.853' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.030,26.853 46.543,27.014 41.030,26.853' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='46.543,27.014 46.892,27.018 46.892,27.018' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='46.892,27.018 46.543,27.014 46.892,27.018' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='46.892,27.018 46.543,27.014 46.543,27.014' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,10.506 6.436,12.940 6.436,12.940' stroke='#363636' fill='#363636'/>
-<polygon points='5.000,10.506 6.436,12.940 5.000,10.506' stroke='#363636' fill='#363636'/>
-<polygon points='24.747,25.868 41.030,26.853 22.219,25.382' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='60.783,27.170 91.720,27.224 18.117,23.974' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='6.436,12.940 50.062,6.684 5.000,10.506' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='15.243,22.380 147.323,21.568 13.780,21.335' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='10.832,18.662 147.323,11.568 9.358,17.001' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='12.308,20.101 263.258,11.568 10.832,18.662' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='263.258,11.568 147.323,11.568 10.832,18.662' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='147.323,5.000 50.062,6.684 7.891,15.099' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='34.331,26.666 41.030,26.853 24.747,25.868' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='13.780,21.335 263.258,21.568 12.308,20.101' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='16.691,23.254 147.323,27.076 15.243,22.380' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='147.323,21.568 263.258,21.568 13.780,21.335' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='18.117,23.974 91.720,27.224 16.691,23.254' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='19.518,24.557 60.783,27.170 18.117,23.974' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='91.720,27.224 147.323,27.076 16.691,23.254' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='30.992,26.493 34.331,26.666 27.060,26.151' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='147.323,11.568 147.323,5.000 9.358,17.001' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='263.258,21.568 263.258,11.568 12.308,20.101' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='147.323,27.076 147.323,21.568 15.243,22.380' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.030,26.853 46.543,27.014 22.219,25.382' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='46.543,27.014 60.783,27.170 19.518,24.557' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='9.358,17.001 147.323,5.000 7.891,15.099' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='27.060,26.151 34.331,26.666 24.747,25.868' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='7.891,15.099 50.062,6.684 6.436,12.940' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='22.219,25.382 46.543,27.014 19.518,24.557' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='30.992,26.493 34.331,26.666 34.331,26.666' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='30.992,26.493 34.331,26.666 30.992,26.493' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='10.832,18.662 12.308,20.101 10.832,18.662' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='27.060,26.151 30.992,26.493 30.992,26.493' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='27.060,26.151 30.992,26.493 27.060,26.151' stroke='#1e1e1e' fill='#1e1e1e'/>
-<path d='M147.323 11.568 L147.323,5.000 L50.062,6.684 L5.000,10.506 L6.436,12.940 L7.891,15.099 L9.358,17.001 L10.832,18.662 L12.308,20.101 L13.780,21.335 L15.243,22.380 L16.691,23.254 L18.117,23.974 L19.518,24.557 L22.219,25.382 L24.747,25.868 L27.060,26.151 L30.992,26.493 L34.331,26.666 L41.030,26.853 L46.543,27.014 L60.783,27.170 L91.720,27.224 L147.323,27.076 L147.323,21.568 L263.258,21.568 L263.258,11.568 L147.323,11.568 ' class='s5' />
+<path d='M5.000 21.187 C12.600,34.928 21.221,36.223 27.060,36.832 C32.898,37.440 35.955,37.361 41.030,37.534 C46.105,37.707 53.199,38.132 147.323,37.757 L147.323,32.248 L263.258,32.248 L263.258,22.248 L147.323,22.248 L147.323,15.680 L50.062,17.364 L5.000,21.187 ' class='s1' />
+<path d='M262.753 51.242 L262.633,51.106 L262.486,51.004 L262.322,50.941 L262.149,50.919 L261.975,50.941 L261.811,51.004 L261.665,51.106 L261.544,51.242 L261.283,51.852 L261.094,52.491 L260.979,53.150 L260.940,53.820 L260.979,54.489 L261.094,55.148 L261.283,55.788 L261.544,56.397 L261.665,56.533 L261.811,56.635 L261.975,56.698 L262.149,56.720 L262.322,56.698 L262.486,56.635 L262.633,56.533 L262.753,56.397 L263.014,55.788 L263.204,55.148 L263.319,54.489 L263.357,53.820 L263.319,53.150 L263.204,52.491 L263.014,51.852 L262.753,51.242 ' class='s6' />
+<path d='M269.037 51.242 L268.916,51.106 L268.770,51.004 L268.606,50.941 L268.432,50.919 L268.259,50.941 L268.095,51.004 L267.948,51.106 L267.828,51.242 L267.567,51.852 L267.377,52.491 L267.262,53.150 L267.224,53.820 L267.262,54.489 L267.377,55.148 L267.567,55.788 L267.828,56.397 L267.948,56.533 L268.095,56.635 L268.259,56.698 L268.432,56.720 L268.606,56.698 L268.770,56.635 L268.916,56.533 L269.037,56.397 L269.298,55.788 L269.487,55.148 L269.602,54.489 L269.641,53.820 L269.602,53.150 L269.487,52.491 L269.298,51.852 L269.037,51.242 ' class='s6' />
+<path d='M273.387 51.242 L273.266,51.106 L273.120,51.004 L272.956,50.941 L272.783,50.919 L272.609,50.941 L272.445,51.004 L272.299,51.106 L272.178,51.242 L271.917,51.852 L271.728,52.491 L271.613,53.150 L271.574,53.820 L271.613,54.489 L271.728,55.148 L271.917,55.788 L272.178,56.397 L272.299,56.533 L272.445,56.635 L272.609,56.698 L272.783,56.720 L272.956,56.698 L273.120,56.635 L273.266,56.533 L273.387,56.397 L273.648,55.788 L273.838,55.148 L273.952,54.489 L273.991,53.820 L273.952,53.150 L273.838,52.491 L273.648,51.852 L273.387,51.242 ' class='s6' />
+<path d='M205.837 10.156 L205.837,8.222 L205.745,7.729 L205.483,7.311 L205.091,7.032 L204.629,6.933 L204.166,7.032 L203.774,7.311 L203.512,7.729 L203.420,8.222 L203.420,8.867 L203.445,9.118 L203.514,9.359 L203.626,9.581 L203.777,9.776 L203.959,9.936 L204.167,10.055 L204.393,10.130 L204.629,10.156 L205.837,10.156 ' class='s6' />
+<path d='M147.350 32.068 L147.350,25.301 ' class='s6' />
+<path d='M147.350 25.301 L147.350,22.401 ' class='s6' />
+<path d='M147.350 22.401 L147.350,5.000 ' class='s6' />
+<path d='M266.741 24.334 L268.674,29.651 ' class='s6' />
+<path d='M268.674 29.651 L270.607,24.334 ' class='s6' />
+<path d='M140.100 32.068 L141.791,37.385 ' class='s6' />
+<path d='M141.791 37.385 L143.483,32.068 ' class='s6' />
+<path d='M151.700 39.319 L151.700,41.736 ' class='s6' />
+<path d='M151.700 39.319 L149.284,39.319 ' class='s6' />
+<path d='M143.967 39.319 L146.383,39.319 ' class='s6' />
+<path d='M143.967 39.319 L143.967,41.736 ' class='s6' />
+<path d='M143.967 47.052 L143.967,44.636 ' class='s6' />
+<path d='M143.967 47.052 L146.383,47.052 ' class='s6' />
+<path d='M151.700 47.052 L149.284,47.052 ' class='s6' />
+<path d='M151.700 47.052 L151.700,44.636 ' class='s6' />
+<path d='M147.833 43.186 L147.833,36.419 ' class='s6' />
+<path d='M147.833 11.284 L147.833,18.051 ' class='s6' />
+<path d='M151.217 16.117 L152.909,21.434 ' class='s6' />
+<path d='M152.909 21.434 L154.601,16.117 ' class='s6' />
+<path d='M203.903 19.501 L203.903,13.701 ' class='s6' />
+<path d='M206.804 19.501 L206.804,13.701 ' class='s6' />
+<path d='M203.903 16.278 L206.804,16.278 ' class='s6' />
+<path d='M203.903 40.285 L203.903,34.968 ' class='s6' />
+<path d='M206.804 40.285 L206.804,34.968 ' class='s6' />
+<path d='M203.903 37.332 L206.804,37.332 ' class='s6' />
+<path d='M263.357 22.401 L271.091,22.401 ' class='s6' />
+<path d='M263.357 32.068 L271.091,32.068 ' class='s6' />
+<path d='M266.257 22.401 L266.257,48.986 ' class='s6' />
+<path d='M266.257 22.401 L266.257,13.701 ' class='s6' />
+<path d='M266.257 22.401 L263.840,16.117 ' class='s6' />
+<path d='M266.257 22.401 L268.191,16.117 ' class='s6' />
+<path d='M266.257 32.068 L268.191,38.352 ' class='s6' />
+<path d='M266.257 32.068 L263.840,38.352 ' class='s6' />
+<path d='M258.040 52.208 L259.007,50.919 ' class='s6' />
+<path d='M259.007 50.919 L259.007,56.720 ' class='s6' />
+<path d='M265.290 56.720 L265.290,56.397 ' class='s6' />
+<path d='M263.357 32.068 L263.357,5.000 ' class='s6' />
+<path d='M263.357 9.834 L229.522,9.834 ' class='s6' />
+<path d='M190.369 9.834 L147.350,9.834 ' class='s6' />
+<path d='M147.350 9.834 L153.634,11.767 ' class='s6' />
+<path d='M263.357 9.834 L257.073,7.900 ' class='s6' />
+<path d='M263.357 9.834 L257.073,11.767 ' class='s6' />
+<path d='M147.350 9.834 L153.634,7.900 ' class='s6' />
+<path d='M191.336 8.222 L192.303,6.933 ' class='s6' />
+<path d='M192.303 6.933 L192.303,12.734 ' class='s6' />
+<path d='M194.236 8.222 L195.203,6.933 ' class='s6' />
+<path d='M195.203 6.933 L195.203,12.734 ' class='s6' />
+<path d='M199.553 6.933 L197.136,6.933 ' class='s6' />
+<path d='M197.136 6.933 L197.136,9.511 ' class='s6' />
+<path d='M197.136 9.511 L198.345,9.511 ' class='s6' />
+<path d='M198.345 9.511 L198.580,9.538 ' class='s6' />
+<path d='M198.580 9.538 L198.806,9.612 ' class='s6' />
+<path d='M198.806 9.612 L199.014,9.731 ' class='s6' />
+<path d='M199.014 9.731 L199.197,9.892 ' class='s6' />
+<path d='M199.197 9.892 L199.347,10.086 ' class='s6' />
+<path d='M199.347 10.086 L199.459,10.309 ' class='s6' />
+<path d='M199.459 10.309 L199.529,10.550 ' class='s6' />
+<path d='M199.529 10.550 L199.553,10.800 ' class='s6' />
+<path d='M199.553 10.800 L199.553,11.445 ' class='s6' />
+<path d='M199.553 11.445 L199.529,11.696 ' class='s6' />
+<path d='M199.529 11.696 L199.459,11.937 ' class='s6' />
+<path d='M199.459 11.937 L199.347,12.159 ' class='s6' />
+<path d='M199.347 12.159 L199.197,12.354 ' class='s6' />
+<path d='M199.197 12.354 L199.014,12.514 ' class='s6' />
+<path d='M199.014 12.514 L198.806,12.633 ' class='s6' />
+<path d='M198.806 12.633 L198.580,12.707 ' class='s6' />
+<path d='M198.580 12.707 L198.345,12.734 ' class='s6' />
+<path d='M198.345 12.734 L197.136,12.734 ' class='s6' />
+<path d='M201.487 12.734 L201.487,12.412 ' class='s6' />
+<path d='M205.837 10.156 L205.802,10.585 ' class='s6' />
+<path d='M205.802 10.585 L205.704,11.003 ' class='s6' />
+<path d='M205.704 11.003 L205.545,11.400 ' class='s6' />
+<path d='M205.545 11.400 L205.329,11.764 ' class='s6' />
+<path d='M205.329 11.764 L205.062,12.087 ' class='s6' />
+<path d='M205.062 12.087 L204.750,12.361 ' class='s6' />
+<path d='M204.750 12.361 L204.401,12.578 ' class='s6' />
+<path d='M204.401 12.578 L204.024,12.734 ' class='s6' />
+<path d='M208.930 6.933 L207.770,11.445 ' class='s6' />
+<path d='M207.770 11.445 L210.671,11.445 ' class='s6' />
+<path d='M209.800 10.156 L209.800,12.734 ' class='s6' />
+<path d='M216.954 12.734 L216.954,6.933 ' class='s6' />
+<path d='M216.954 6.933 L218.404,6.933 ' class='s6' />
+<path d='M218.404 6.933 L218.959,7.056 ' class='s6' />
+<path d='M218.959 7.056 L219.430,7.405 ' class='s6' />
+<path d='M219.430 7.405 L219.744,7.928 ' class='s6' />
+<path d='M219.744 7.928 L219.854,8.545 ' class='s6' />
+<path d='M219.854 8.545 L219.744,9.161 ' class='s6' />
+<path d='M219.744 9.161 L219.430,9.684 ' class='s6' />
+<path d='M219.430 9.684 L218.959,10.033 ' class='s6' />
+<path d='M218.959 10.033 L218.404,10.156 ' class='s6' />
+<path d='M218.404 10.156 L216.954,10.156 ' class='s6' />
+<path d='M219.854 12.734 L218.683,10.124 ' class='s6' />
+<path d='M224.205 12.734 L221.788,12.734 ' class='s6' />
+<path d='M221.788 12.734 L221.788,6.933 ' class='s6' />
+<path d='M221.788 6.933 L224.205,6.933 ' class='s6' />
+<path d='M221.788 9.511 L223.600,9.511 ' class='s6' />
+<path d='M226.138 12.734 L226.138,6.933 ' class='s6' />
+<path d='M226.138 6.933 L228.555,6.933 ' class='s6' />
+<path d='M226.138 9.511 L228.555,9.511 ' class='s6' />
 
 </svg>
