@@ -698,7 +698,7 @@ Request.h.v=00000019
 Request.type=200
 Request.workplane.v=80030000
 Request.group.v=00000003
-Request.construction=1
+Request.construction=0
 Request.style=00000100
 AddRequest
 
@@ -706,7 +706,7 @@ Request.h.v=0000001a
 Request.type=300
 Request.workplane.v=80030000
 Request.group.v=00000003
-Request.construction=1
+Request.construction=0
 Request.style=00000100
 AddRequest
 
@@ -1427,7 +1427,7 @@ AddEntity
 
 Entity.h.v=00190000
 Entity.type=11000
-Entity.construction=1
+Entity.construction=0
 Entity.style=00000100
 Entity.point[0].v=00190001
 Entity.point[1].v=00190002
@@ -1457,7 +1457,7 @@ AddEntity
 
 Entity.h.v=001a0000
 Entity.type=12000
-Entity.construction=1
+Entity.construction=0
 Entity.style=00000100
 Entity.point[0].v=001a0001
 Entity.point[1].v=001a0002
@@ -1915,8 +1915,8 @@ Constraint.ptB.v=001f0002
 Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
-Constraint.disp.offset.x=-0.00000000000000063838
-Constraint.disp.offset.y=-9.35670843382178851755
+Constraint.disp.offset.x=-16.30335560438646425041
+Constraint.disp.offset.y=-6.07831627424407727744
 AddConstraint
 
 Constraint.h.v=0000002c
