@@ -1,4 +1,4 @@
 # Tanto
-![](tanto.png)
 ![](tanto.svg)
+![](tanto.png)
 ![preview](gallery_1.jpg)

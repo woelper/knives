@@ -1,5 +1,5 @@
 # Seax
-![](seax.png)
 ![](seax.svg)
-![preview](gallery_2.png)
+![](seax.png)
 ![preview](gallery_1.png)
+![preview](gallery_2.png)

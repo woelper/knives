@@ -1,3 +1,3 @@
 # Serpent
-![](serpent.png)
 ![](serpent.svg)
+![](serpent.png)

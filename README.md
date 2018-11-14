@@ -1,23 +1,27 @@
 This is a collection of older and recent knife designs. Almost all of them have been built by me in various stages and provide some practical value. They are all done with solvespace.
 
-[Owl](knife_owl/)
+[Twig](knife_twig/)
 
 [Simple hunter](knife_simple_hunter/)
 
-[Feather](knife_feather/)
-
 [Eastern promise](knife_eastern_promise/)
 
-[Grabendolch](knife_grabendolch/)
+[Owl](knife_owl/)
 
-[Serpent](knife_serpent/)
-
-[Tanto](knife_tanto/)
-
-[Gyuto](knife_gyuto/)
+[Feather](knife_feather/)
 
 [Seax](knife_seax/)
 
-[Twig](knife_twig/)
+[Test](knife_test/)
 
 [Km13](knife_km13/)
+
+[Whaler](knife_whaler/)
+
+[Gyuto](knife_gyuto/)
+
+[Tanto](knife_tanto/)
+
+[Serpent](knife_serpent/)
+
+[Grabendolch](knife_grabendolch/)
