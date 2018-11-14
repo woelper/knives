@@ -6,120 +6,120 @@
 <style><![CDATA[
 polygon {
 shape-rendering:crispEdges;
-stroke-width:0.214146;
+stroke-width:0.2;
 }
 .s1 {
 stroke:#000000;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
 stroke:#19b219;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
 stroke:#7f4c00;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
 stroke:#00cc00;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
 stroke:#000000;
-stroke-width:0.189024;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
 stroke:#ff19ff;
-stroke-width:0.189024;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
 stroke:#ff0000;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
 stroke:#ffff00;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
 stroke:#001919;
-stroke-width:0.189024;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
 stroke:#006666;
-stroke-width:0.189024;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
 stroke:#00ffff;
-stroke-width:0.567073;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
 stroke:#ff0000;
-stroke-width:1.512195;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
 stroke:#191919;
-stroke-width:0.189024;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
 stroke:#000000;
-stroke-width:0.189024;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:2.835,2.835;
+stroke-dasharray:2,2;
 fill:none;
 }
 .sf {
 stroke:#000000;
-stroke-width:0.567073;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s100 {
 stroke:#161617;
-stroke-width:0.283537;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:2.835,2.835;
+stroke-dasharray:2,2;
 fill:none;
 }
 ]]></style>

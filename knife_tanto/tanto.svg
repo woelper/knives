@@ -1,137 +1,134 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='281.912mm' height='79.266mm' viewBox="0 0 281.912 79.266">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='283.354mm' height='44.631mm' viewBox="0 0 283.354 44.631">
 
 <title>Exported SVG</title>
 
 <style><![CDATA[
 polygon {
 shape-rendering:crispEdges;
-stroke-width:0.281912;
+stroke-width:0.2;
 }
 .s1 {
 stroke:#000000;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
 stroke:#19b219;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
 stroke:#7f4c00;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
 stroke:#00cc00;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
 stroke:#000000;
-stroke-width:2.886081;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
 stroke:#ff19ff;
-stroke-width:2.886081;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
 stroke:#ff0000;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
 stroke:#ffff00;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
 stroke:#001919;
-stroke-width:2.886081;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
 stroke:#006666;
-stroke-width:2.886081;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
 stroke:#00ffff;
-stroke-width:8.658243;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
 stroke:#ff0000;
-stroke-width:23.088648;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
 stroke:#191919;
-stroke-width:2.886081;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
 stroke:#000000;
-stroke-width:2.886081;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:43.291,43.291;
+stroke-dasharray:2,2;
 fill:none;
 }
 .sf {
 stroke:#000000;
-stroke-width:8.658243;
-stroke-linecap:round;
-stroke-linejoin:round;
-fill:none;
-}
-.s100 {
-stroke:#000000;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s101 {
 stroke:#0a0a0a;
-stroke-width:4.329121;
+stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:43.291,43.291;
+stroke-dasharray:2,2;
 fill:none;
 }
 ]]></style>
-<path d='M127.243 56.418 A1527.895,1527.895 0 0,0 133.802,56.468 A2.556,2.556 0 0,1 136.174,54.851 A2.556,2.556 0 0,1 138.552,56.457 A856.928,856.928 0 0,0 259.997,48.268 L276.912,24.814 A2980.955,2980.955 0 0,1 127.273,28.401 L127.273,24.822 L122.830,24.822 L122.830,32.637 A3072.465,3072.465 0 0,1 7.707,30.147 A33.423,33.423 0 0,0 6.576,46.779 A1536.602,1536.602 0 0,0 122.831,52.664 L122.831,59.445 L127.243,59.430 L127.243,56.418 M20.010 38.674 A3.182,3.182 0 0,1 16.827,41.856 A3.182,3.182 0 0,1 13.645,38.674 A3.182,3.182 0 0,1 16.827,35.492 A3.182,3.182 0 0,1 20.010,38.674 ' class='s1' />
-<path d='M46.503 5.000 L66.706,74.266 ' class='s6' />
-<path d='M66.706 74.266 L86.908,5.000 ' class='s6' />
+<path d='M128.685 36.605 A1527.895,1527.895 0 0,0 135.245,36.654 A2.556,2.556 0 0,1 137.616,35.037 A2.556,2.556 0 0,1 139.995,36.643 A856.928,856.928 0 0,0 261.440,28.454 L278.354,5.000 A2980.955,2980.955 0 0,1 128.715,8.587 L128.715,5.008 L124.273,5.008 L124.273,12.823 A3072.465,3072.465 0 0,1 9.150,10.333 A33.423,33.423 0 0,0 8.018,26.965 A1536.602,1536.602 0 0,0 124.273,32.850 L124.273,39.631 L128.685,39.616 L128.685,36.605 M21.452 18.860 A3.182,3.182 0 0,1 18.270,22.043 A3.182,3.182 0 0,1 15.087,18.860 A3.182,3.182 0 0,1 18.270,15.678 A3.182,3.182 0 0,1 21.452,18.860 ' class='s1' />
+<path d='M8.708 30.711 A1540.307,1540.307 0 0,0 124.313,36.523 ' class='s101' />
+<path d='M10.707 6.113 A34.520,34.520 0 0,0 8.708,30.711 ' class='s101' />
+<path d='M10.707 6.113 A2889.547,2889.547 0 0,0 124.313,8.617 ' class='s101' />
+<path d='M135.249 15.789 A951.047,951.047 0 0,0 256.552,11.118 ' class='s101' />
+<path d='M256.552 11.118 L260.830,5.707 ' class='s101' />
+<path d='M135.242 36.621 L135.242,8.624 ' class='s101' />
 
 </svg>
