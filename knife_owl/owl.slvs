@@ -714,7 +714,7 @@ Request.h.v=0000001b
 Request.type=200
 Request.workplane.v=80030000
 Request.group.v=00000003
-Request.construction=1
+Request.construction=0
 Request.style=00000100
 AddRequest
 
@@ -1509,7 +1509,7 @@ AddEntity
 
 Entity.h.v=001b0000
 Entity.type=11000
-Entity.construction=1
+Entity.construction=0
 Entity.style=00000100
 Entity.point[0].v=001b0001
 Entity.point[1].v=001b0002

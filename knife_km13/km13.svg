@@ -115,7 +115,6 @@ stroke-linejoin:round;
 fill:none;
 }
 ]]></style>
-<polygon points='344.446,9.266 344.835,10.009 344.446,9.266' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='278.855,5.558 282.863,5.514 282.863,5.514' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='278.855,5.558 282.863,5.514 278.855,5.558' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='284.456,13.181 283.897,13.342 283.897,13.342' stroke='none' fill='rgba(0,0,0,0.2'/>
@@ -230,15 +229,15 @@ fill:none;
 <polygon points='334.348,22.213 334.627,22.706 334.348,22.213' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='345.088,12.336 345.148,11.586 345.088,12.336' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='341.097,27.221 340.288,27.613 341.097,27.221' stroke='none' fill='rgba(0,0,0,0.2'/>
-<polygon points='345.069,10.797 344.835,10.009 345.069,10.797' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='344.247,9.018 344.446,9.266 344.247,9.018' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='337.416,27.637 337.592,27.685 337.416,27.637' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='337.416,27.637 337.592,27.685 337.592,27.685' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='345.069,10.797 344.835,10.009 344.835,10.009' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='345.069,10.797 344.835,10.009 345.069,10.797' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='345.148,11.586 345.069,10.797 345.069,10.797' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='345.148,11.586 345.069,10.797 345.148,11.586' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='339.394,27.830 338.475,27.853 339.394,27.830' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='339.394,27.830 338.475,27.853 338.475,27.853' stroke='none' fill='rgba(0,0,0,0.2'/>
-<polygon points='344.247,9.018 344.446,9.266 344.446,9.266' stroke='none' fill='rgba(0,0,0,0.2'/>
-<polygon points='344.446,9.266 344.247,9.018 344.247,9.018' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='342.826,25.152 342.398,25.966 342.826,25.152' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='342.398,25.966 341.807,26.670 341.807,26.670' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='345.088,12.336 343.068,24.286 345.088,12.336' stroke='none' fill='rgba(0,0,0,0.2'/>
@@ -251,11 +250,13 @@ fill:none;
 <polygon points='343.068,24.286 342.826,25.152 343.068,24.286' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='339.221,22.537 339.580,21.571 339.221,22.537' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='339.221,22.537 339.580,21.571 339.580,21.571' stroke='none' fill='rgba(0,0,0,0.2'/>
-<polygon points='344.247,9.018 343.921,8.613 344.247,9.018' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='342.601,7.695 343.292,8.083 343.292,8.083' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='343.921,8.613 344.247,9.018 344.247,9.018' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='344.247,9.018 343.921,8.613 343.921,8.613' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='341.889,7.450 342.601,7.695 341.889,7.450' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='341.889,7.450 342.601,7.695 342.601,7.695' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='343.292,8.083 343.921,8.613 343.292,8.083' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='343.292,8.083 343.921,8.613 343.921,8.613' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='340.819,11.556 340.540,11.063 340.819,11.556' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='333.085,5.306 331.956,5.100 331.956,5.100' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='324.646,5.059 330.073,5.000 330.073,5.000' stroke='none' fill='rgba(0,0,0,0.2'/>
@@ -518,6 +519,7 @@ fill:none;
 <polygon points='251.342,20.170 328.688,25.906 251.342,20.169' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='251.342,20.170 324.171,25.596 328.688,25.906' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='261.640,7.493 338.757,9.945 261.651,7.478' stroke='none' fill='rgba(0,0,0,0.2'/>
+<polygon points='344.446,9.266 344.835,10.009 344.835,10.009' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='252.525,18.713 252.136,19.192 252.525,18.713' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='217.328,6.813 217.874,6.709 217.328,6.813' stroke='none' fill='rgba(0,0,0,0.2'/>
 <polygon points='215.195,6.406 215.328,6.250 215.328,6.250' stroke='none' fill='rgba(0,0,0,0.2'/>
