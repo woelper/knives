@@ -1,0 +1,183 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='269.588mm' height='52.625mm' viewBox="0 0 269.588 52.625">
+
+<title>Exported SVG</title>
+
+<style><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.2;
+}
+.s1 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s2 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s3 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s4 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s5 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s6 {display:none}
+.s7 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s8 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s9 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.sa {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.sb {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.sc {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.sd {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.se {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:2,2;
+fill:rgb(120,120,120);
+}
+.sf {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s100 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:rgb(120,120,120);
+}
+.s101 {
+stroke:none;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:2,2;
+fill:rgb(120,120,120);
+}
+]]></style>
+<path d='M16.111 12.448 A12.706,12.706 0 0,0 5.000,20.336 A32.314,32.314 0 0,0 19.887,37.493 A55.218,55.218 0 0,1 38.317,31.639 A513.250,513.250 0 0,0 112.739,30.781 C119.852,29.986 119.648,34.201 120.071,35.097 L120.071,47.625 C197.064,42.721 245.421,29.886 264.588,20.583 C262.132,18.617 255.971,13.685 228.816,10.975 L16.111,12.448 M30.882 21.838 A3.000,3.000 0 0,1 27.882,24.838 A3.000,3.000 0 0,1 24.882,21.838 A3.000,3.000 0 0,1 27.882,18.838 A3.000,3.000 0 0,1 30.882,21.838 M100.604 21.838 A3.000,3.000 0 0,1 97.604,24.838 A3.000,3.000 0 0,1 94.604,21.838 A3.000,3.000 0 0,1 97.604,18.838 A3.000,3.000 0 0,1 100.604,21.838 ' class='s1' />
+<path d='M59.432 12.000 L59.170,11.707 L58.853,11.485 L58.496,11.347 L58.119,11.300 L57.742,11.347 L57.385,11.485 L57.068,11.707 L56.806,12.000 L56.239,13.325 L55.827,14.714 L55.578,16.147 L55.494,17.601 L55.578,19.055 L55.827,20.487 L56.239,21.876 L56.806,23.201 L57.068,23.495 L57.385,23.716 L57.742,23.854 L58.119,23.901 L58.496,23.854 L58.853,23.716 L59.170,23.495 L59.432,23.201 L59.999,21.876 L60.411,20.487 L60.661,19.055 L60.744,17.601 L60.661,16.147 L60.411,14.714 L59.999,13.325 L59.432,12.000 ' class='s6' />
+<path d='M68.882 12.000 L68.621,11.707 L68.303,11.485 L67.947,11.347 L67.570,11.300 L67.193,11.347 L66.836,11.485 L66.518,11.707 L66.257,12.000 L65.689,13.325 L65.278,14.714 L65.028,16.147 L64.944,17.601 L65.028,19.055 L65.278,20.487 L65.689,21.876 L66.257,23.201 L66.518,23.495 L66.836,23.716 L67.193,23.854 L67.570,23.901 L67.947,23.854 L68.303,23.716 L68.621,23.495 L68.882,23.201 L69.450,21.876 L69.862,20.487 L70.111,19.055 L70.195,17.601 L70.111,16.147 L69.862,14.714 L69.450,13.325 L68.882,12.000 ' class='s6' />
+<path d='M118.498 5.000 L105.897,5.000 L105.897,17.601 L118.498,17.601 L118.498,5.000 ' class='s6' />
+<path d='M103.797 34.402 L107.997,47.003 ' class='s6' />
+<path d='M107.997 47.003 L112.197,34.402 ' class='s6' />
+<path d='M97.497 8.150 L97.497,29.152 ' class='s6' />
+<path d='M28.192 8.150 L28.192,29.152 ' class='s6' />
+<path d='M97.497 21.801 L82.796,21.801 ' class='s6' />
+<path d='M28.192 21.801 L42.893,21.801 ' class='s6' />
+<path d='M32.392 23.901 L36.593,11.300 ' class='s6' />
+<path d='M41.843 16.901 L41.918,15.968 ' class='s6' />
+<path d='M41.918 15.968 L42.131,15.060 ' class='s6' />
+<path d='M42.131 15.060 L42.477,14.199 ' class='s6' />
+<path d='M42.477 14.199 L42.946,13.408 ' class='s6' />
+<path d='M42.946 13.408 L43.527,12.706 ' class='s6' />
+<path d='M43.527 12.706 L44.204,12.111 ' class='s6' />
+<path d='M44.204 12.111 L44.962,11.639 ' class='s6' />
+<path d='M44.962 11.639 L45.781,11.300 ' class='s6' />
+<path d='M51.294 23.901 L51.294,23.201 ' class='s6' />
+<path d='M30.292 17.601 L30.612,15.993 ' class='s6' />
+<path d='M30.612 15.993 L31.523,14.631 ' class='s6' />
+<path d='M31.523 14.631 L32.885,13.720 ' class='s6' />
+<path d='M32.885 13.720 L34.493,13.401 ' class='s6' />
+<path d='M34.493 13.401 L36.100,13.720 ' class='s6' />
+<path d='M36.100 13.720 L37.463,14.631 ' class='s6' />
+<path d='M37.463 14.631 L38.373,15.993 ' class='s6' />
+<path d='M38.373 15.993 L38.693,17.601 ' class='s6' />
+<path d='M38.693 17.601 L38.373,19.208 ' class='s6' />
+<path d='M38.373 19.208 L37.463,20.571 ' class='s6' />
+<path d='M37.463 20.571 L36.100,21.481 ' class='s6' />
+<path d='M36.100 21.481 L34.493,21.801 ' class='s6' />
+<path d='M34.493 21.801 L32.885,21.481 ' class='s6' />
+<path d='M32.885 21.481 L31.523,20.571 ' class='s6' />
+<path d='M31.523 20.571 L30.612,19.208 ' class='s6' />
+<path d='M30.612 19.208 L30.292,17.601 ' class='s6' />
+<path d='M41.843 16.901 L44.468,16.901 ' class='s6' />
+<path d='M44.468 16.901 L44.979,16.958 ' class='s6' />
+<path d='M44.979 16.958 L45.470,17.119 ' class='s6' />
+<path d='M45.470 17.119 L45.922,17.379 ' class='s6' />
+<path d='M45.922 17.379 L46.319,17.727 ' class='s6' />
+<path d='M46.319 17.727 L46.645,18.150 ' class='s6' />
+<path d='M46.645 18.150 L46.889,18.632 ' class='s6' />
+<path d='M46.889 18.632 L47.040,19.156 ' class='s6' />
+<path d='M47.040 19.156 L47.093,19.701 ' class='s6' />
+<path d='M47.093 19.701 L47.093,21.101 ' class='s6' />
+<path d='M47.093 21.101 L46.894,22.173 ' class='s6' />
+<path d='M46.894 22.173 L46.324,23.081 ' class='s6' />
+<path d='M46.324 23.081 L45.473,23.688 ' class='s6' />
+<path d='M45.473 23.688 L44.468,23.901 ' class='s6' />
+<path d='M44.468 23.901 L43.464,23.688 ' class='s6' />
+<path d='M43.464 23.688 L42.612,23.081 ' class='s6' />
+<path d='M42.612 23.081 L42.043,22.173 ' class='s6' />
+<path d='M42.043 22.173 L41.843,21.101 ' class='s6' />
+<path d='M41.843 21.101 L41.843,16.901 ' class='s6' />
+
+</svg>
