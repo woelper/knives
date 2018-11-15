@@ -43,7 +43,7 @@ stroke-linecap:round;
 stroke-linejoin:round;
 fill:rgb(120,120,120);
 }
-.s6 {display:none}
+.s6 {display:none;}
 .s7 {
 stroke:none;
 stroke-width:0.2;
@@ -108,21 +108,8 @@ stroke-linecap:round;
 stroke-linejoin:round;
 fill:rgb(120,120,120);
 }
-.s100 {
-stroke:none;
-stroke-width:0.2;
-stroke-linecap:round;
-stroke-linejoin:round;
-fill:rgb(120,120,120);
-}
-.s101 {
-stroke:none;
-stroke-width:0.2;
-stroke-linecap:round;
-stroke-linejoin:round;
-stroke-dasharray:2,2;
-fill:rgb(120,120,120);
-}
+.s100 {fill:none; stroke-width:1; stroke-dasharray:2,2; stroke:#000000;}
+.s101 {fill:none; stroke-width:1; stroke-dasharray:2,2; stroke:#000000;}
 ]]></style>
 <path d='M122.556 50.674 C200.172,55.380 248.529,42.544 267.696,33.242 C260.213,24.759 254.052,18.023 229.086,17.490 L123.517,15.238 L121.978,8.662 L115.164,8.662 L113.480,12.880 A3.371,3.371 0 0,1 110.349,15.001 L16.452,15.001 A13.484,13.484 0 0,0 5.000,23.831 A32.482,32.482 0 0,0 20.110,41.300 A51.214,51.214 0 0,1 46.214,36.842 A264.041,264.041 0 0,0 113.056,34.525 C120.167,33.709 120.122,37.894 120.301,38.837 L122.556,50.674 M31.198 25.560 A3.000,3.000 0 0,1 28.198,28.560 A3.000,3.000 0 0,1 25.198,25.560 A3.000,3.000 0 0,1 28.198,22.560 A3.000,3.000 0 0,1 31.198,25.560 M100.920 25.560 A3.000,3.000 0 0,1 97.920,28.560 A3.000,3.000 0 0,1 94.920,25.560 A3.000,3.000 0 0,1 97.920,22.560 A3.000,3.000 0 0,1 100.920,25.560 ' class='s1' />
 <path d='M118.618 5.000 L111.642,5.000 L111.642,11.976 L118.618,11.976 L118.618,5.000 ' class='s6' />

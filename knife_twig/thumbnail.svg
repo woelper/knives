@@ -43,7 +43,7 @@ stroke-linecap:round;
 stroke-linejoin:round;
 fill:rgb(120,120,120);
 }
-.s6 {display:none}
+.s6 {display:none;}
 .s7 {
 stroke:none;
 stroke-width:0.2;

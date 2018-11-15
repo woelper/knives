@@ -1,3 +1,3 @@
 # Whaler
-This is a fun design based on the Gyuto. Somehow with a wider blade this looks like a whale and I added some better curve flows together with some maritime features. Should be a fun knife to build!
+This is a fun design based on the Gyuto. With a wider blade this form resembles a whale. Better curve flows with a thumb rest make this a more maritime blade. Should be a fun knife to build!
 ![](whaler.svg)
