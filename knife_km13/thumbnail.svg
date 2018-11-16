@@ -9,98 +9,98 @@ shape-rendering:crispEdges;
 stroke-width:0.2;
 }
 .s1 {
-stroke:#000000;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
-stroke:#19b219;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
-stroke:#7f4c00;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
-stroke:#00cc00;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
-stroke:#000000;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
-stroke:#ff19ff;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
-stroke:#ff0000;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
-stroke:#ffff00;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
-stroke:#001919;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
-stroke:#006666;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
-stroke:#00ffff;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
-stroke:#ff0000;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
-stroke:#191919;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
-stroke:#000000;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
@@ -108,20 +108,13 @@ stroke-dasharray:2,2;
 fill:none;
 }
 .sf {
-stroke:#000000;
+stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
-.s100 {
-stroke:#000000;
-stroke-width:0.2;
-stroke-linecap:round;
-stroke-linejoin:round;
-stroke-dasharray:2,2;
-fill:none;
-}
+.s100 {fill:none; stroke-width:1; stroke-dasharray:1,1; stroke:#000000;}
 ]]></style>
 <polygon points='263.071,5.730 276.178,5.587 276.178,5.587' stroke='none' fill='rgb(190,190,190)'/>
 <polygon points='263.071,5.730 276.178,5.587 263.071,5.730' stroke='none' fill='rgb(190,190,190)'/>

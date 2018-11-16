@@ -13,35 +13,35 @@ stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s2 {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s3 {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s4 {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s5 {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s6 {display:none;}
 .s7 {
@@ -49,49 +49,49 @@ stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s8 {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s9 {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .sa {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .sb {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .sc {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .sd {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .se {
 stroke:none;
@@ -99,14 +99,14 @@ stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
 stroke-dasharray:2,2;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .sf {
 stroke:none;
 stroke-width:0.2;
 stroke-linecap:round;
 stroke-linejoin:round;
-fill:rgb(120,120,120);
+fill:rgb(190,190,190);
 }
 .s100 {fill:none; stroke-width:1; stroke-dasharray:2,2; stroke:#000000;}
 ]]></style>
