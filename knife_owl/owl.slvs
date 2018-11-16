@@ -723,7 +723,6 @@ Request.type=200
 Request.workplane.v=80030000
 Request.group.v=00000003
 Request.construction=0
-Request.style=00000100
 AddRequest
 
 Entity.h.v=00010000
@@ -1540,7 +1539,6 @@ AddEntity
 Entity.h.v=001f0000
 Entity.type=11000
 Entity.construction=0
-Entity.style=00000100
 Entity.point[0].v=001f0001
 Entity.point[1].v=001f0002
 Entity.workplane.v=80030000
@@ -1550,7 +1548,6 @@ AddEntity
 Entity.h.v=001f0001
 Entity.type=2001
 Entity.construction=0
-Entity.style=00000100
 Entity.workplane.v=80030000
 Entity.actPoint.x=34.69098802343109611002
 Entity.actPoint.y=-24.31358594891730362519
@@ -1560,7 +1557,6 @@ AddEntity
 Entity.h.v=001f0002
 Entity.type=2001
 Entity.construction=0
-Entity.style=00000100
 Entity.workplane.v=80030000
 Entity.actPoint.x=24.69098802343109611002
 Entity.actPoint.y=-24.31358594891730362519

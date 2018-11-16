@@ -114,7 +114,7 @@ stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
-.s100 {fill:none; stroke-width:1; stroke-dasharray:1,1; stroke:#000000;}
+.s100 {fill:none; stroke-width:0.7; stroke:#ffffff; stroke-linecap:round; stroke-linejoin:round;}
 ]]></style>
 <polygon points='263.071,5.730 276.178,5.587 276.178,5.587' stroke='none' fill='rgb(190,190,190)'/>
 <polygon points='263.071,5.730 276.178,5.587 263.071,5.730' stroke='none' fill='rgb(190,190,190)'/>
