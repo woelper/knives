@@ -4,6 +4,7 @@ This is a collection of older and recent knife designs. Almost all of them have 
 |---|---|
 |[Owl](knife_owl/README.md)|<img src="knife_owl/thumbnail.svg" width="200">|
 |[Simple Hunter](knife_simple_hunter/README.md)|<img src="knife_simple_hunter/thumbnail.svg" width="200">|
+|[Mary](knife_mary/README.md)|<img src="knife_mary/thumbnail.svg" width="200">|
 |[Whaler](knife_whaler/README.md)|<img src="knife_whaler/thumbnail.svg" width="200">|
 |[Feather](knife_feather/README.md)|<img src="knife_feather/thumbnail.svg" width="200">|
 |[Eastern Promise](knife_eastern_promise/README.md)|<img src="knife_eastern_promise/thumbnail.svg" width="200">|
