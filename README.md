@@ -14,6 +14,7 @@ This is a collection of older and recent knife designs. Almost all of them have 
 |[Seax](knife_seax/README.md)|<img src="knife_seax/thumbnail.svg" width="200">|
 |[Grabendolch](knife_grabendolch/README.md)|<img src="knife_grabendolch/thumbnail.svg" width="200">|
 |[Marco](knife_marco/README.md)|<img src="knife_marco/thumbnail.svg" width="200">|
+|[Ringwraith](knife_ringwraith/README.md)|<img src="knife_ringwraith/thumbnail.svg" width="200">|
 |[Feather](knife_feather/README.md)|<img src="knife_feather/thumbnail.svg" width="200">|
 |[Simple Hunter](knife_simple_hunter/README.md)|<img src="knife_simple_hunter/thumbnail.svg" width="200">|
 |[Serpent](knife_serpent/README.md)|<img src="knife_serpent/thumbnail.svg" width="200">|

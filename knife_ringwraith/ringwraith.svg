@@ -1,0 +1,139 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='346.686mm' height='119.603mm' viewBox="0 0 346.686 119.603">
+
+<title>Exported SVG</title>
+
+<style><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.2;
+}
+.s0 {
+stroke:#000000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:2,2;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s100 {
+stroke:#000000;
+stroke-width:0.2;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:2,2;
+fill:none;
+}
+]]></style>
+<path d='M128.631 110.829 C213.109,114.603 307.398,103.993 341.686,96.717 L329.537,86.805 C284.376,77.134 210.911,72.989 140.623,70.458 C104.876,67.079 59.170,69.993 16.600,70.377 A6.991,6.991 0 0,0 13.608,71.080 L7.032,74.275 A2.652,2.652 0 0,0 5.387,77.216 L9.055,91.946 A2.652,2.652 0 0,0 10.469,93.796 A2.652,2.652 0 0,0 12.798,93.817 C32.819,85.306 76.674,99.539 111.375,90.460 A14.802,14.802 0 0,1 126.415,95.212 A14.802,14.802 0 0,1 128.631,110.829 ' class='s3' />
+<path d='M14.269 77.364 L16.434,87.394 A1.964,1.964 0 0,1 14.929,89.728 A1.964,1.964 0 0,1 12.595,88.223 L10.430,78.192 A1.964,1.964 0 0,1 11.935,75.859 A1.964,1.964 0 0,1 14.269,77.364 ' class='s3' />
+<path d='M16.795 5.000 L226.795,5.000 ' class='s3' />
+<path d='M125.090 69.423 C128.377,69.544 125.138,92.580 124.852,93.265 ' class='s100' />
+<path d='M330.048 86.688 C261.750,90.639 193.944,94.360 125.138,92.580 ' class='s100' />
+
+</svg>
